@@ -15,7 +15,7 @@ Depois de mais de 7 anos de experiência na área de Marketing Digital, onde atu
 
 Entre meus hobbies e trabalho, invisto meu tempo em aprimorar conhecimento em ferramentas como o Google Data Studio, ETL, Power BI, SQL, MySQL, Python, Google Sheets, Excel e Google Analytics.
 
-Tenho certeza que com meu comprometimento, curiosidade e dedicação, posso ter trocas importantes e inesquecíveis para a minha vida profissional e pessoal.
+Tenho certeza que com meu comprometimento, curiosidade e dedicação, posso ter trocas importantes para a minha vida profissional e pessoal.
 
 Se achar que podemos ter uma dessas trocas, pode me mandar uma mensagem. Vou ficar muito feliz em poder conversar com você!
 <h3 align="left">Languages and Tools:</h3>
